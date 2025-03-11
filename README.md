@@ -23,4 +23,4 @@
   <img align="center" alt="MySql"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </div><br>
 
-apaixinado por tecnologia e por mudar a vida das pessoas, através da programação
+Apaixinado por tecnologia e por mudar a vida das pessoas, através da programação.
